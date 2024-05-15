@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="first-app Search Profile">74881a2bb50e4210bcdcf0c66f4065e4</profile>
+        <search_source display_value="Task">5a889a2b930e421038a4bd6cebba10bf</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-14 22:38:25</sys_created_on>
+        <sys_id>5e889a2b930e421038a4bd6cebba10c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>first-app Search Profile.Task</sys_name>
+        <sys_package display_value="First App" source="x_975934_first_app">c238122b930e421038a4bd6cebba1033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First App">c238122b930e421038a4bd6cebba1033</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_5e889a2b930e421038a4bd6cebba10c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-14 22:38:25</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
