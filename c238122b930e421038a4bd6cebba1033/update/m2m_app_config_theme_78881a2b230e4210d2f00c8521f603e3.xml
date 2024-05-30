@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-14 22:38:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78881a2b230e4210d2f00c8521f603e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="First App" source="x_975934_first_app">c238122b930e421038a4bd6cebba1033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First App">c238122b930e421038a4bd6cebba1033</sys_scope>
+        <sys_update_name>m2m_app_config_theme_78881a2b230e4210d2f00c8521f603e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-14 22:38:21</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="First App App Config">bc881a2bf20e4210d72fc4ef5f6d41e4</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

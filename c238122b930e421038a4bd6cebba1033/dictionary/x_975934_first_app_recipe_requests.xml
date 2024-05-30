@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="44e8d26b930e421038a4bd6cebba10b8" label="Recipe Requests" max_length="40" name="x_975934_first_app_recipe_requests" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Recipe Name" max_length="40" name="recipe_name" type="string"/>
+    </element>
+</database>
